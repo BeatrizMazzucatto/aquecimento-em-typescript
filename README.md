@@ -30,13 +30,11 @@ aquecimento-em-typescript/
 ├── exercicio2/
 │   ├── arrayUtils.ts
 │   ├── teste.ts
-│   ├── tsconfig.json
 │   └── package.json
 │
 ├── exercicio3/
 │   ├── pokedex.ts
 │   ├── tsconfig.json
-│   └── package.json
 │
 └── README.md
 ```
