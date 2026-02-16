@@ -231,8 +231,11 @@ npx ts-node pokedex.ts pikachu
 * Tratamento de erros
 
 ---
+## 👤 Autor
 
-# 👩‍💻 Autor
+Beatriz Mazzucatto Seabra
 
-**Beatriz Mazzucatto Seabra**
-Instituto Federal de Educação, Ciência e Tecnologia de São Paulo — IFSP
+---
+
+**Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Câmpus Guarulhos.**  
+**Desenvolvimento para Dispositivos Móveis- Prof. Douglas Andrade de Paula.**
