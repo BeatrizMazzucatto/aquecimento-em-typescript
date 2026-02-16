@@ -25,7 +25,6 @@ aquecimento-em-typescript/
 ├── exercicio1/
 │   ├── arrayUtils.ts
 │   ├── teste.ts
-│   ├── tsconfig.json
 │   └── package.json
 │
 ├── exercicio2/
